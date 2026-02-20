@@ -44,8 +44,6 @@ Zakres przykładowych tematów:
 - Bezpieczeństwo i bias: wykrywanie uprzedzeń, testy adversarialne, mitigacje.
 - Optymalizacja i deployment modelu: praca nad inference speed, quantization, pruning, a także monitorowanie wydajności po wdrożeniu.
 
-📂 [`roadmap/step 3 - Praca nad modelami`](./roadmap/step%203%20-%20Praca%20nad%20modelami)
-
 ---
 
 ### Krok 4 — Budowanie Agentów AI
